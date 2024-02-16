@@ -2,4 +2,4 @@ texto
 nova branch
 linha nova
 outra alteração
-esqueci de adicionar.
+esqueci de adicionar
